@@ -1,0 +1,6 @@
+{
+  "name": "SecurePass Tkinter Password Generator",
+  "description": "Cryptographically secure Python Tkinter Random Password Generator desktop app and interactive simulator using secrets, string, tkinter, and pyperclip.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
